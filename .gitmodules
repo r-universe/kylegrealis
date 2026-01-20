@@ -8,3 +8,6 @@
 [submodule "nascaR.data"]
 	path = nascaR.data
 	url = https://github.com/kylegrealis/nascar.data
+[submodule "sumExtras"]
+	path = sumExtras
+	url = https://github.com/kylegrealis/sumextras
